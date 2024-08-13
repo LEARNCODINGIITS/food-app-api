@@ -1,0 +1,12 @@
+body{
+    margin:0px;
+    max-height: 1000px;
+}
+
+.i{
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
